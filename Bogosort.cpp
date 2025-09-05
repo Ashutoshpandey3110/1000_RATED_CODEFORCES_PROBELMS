@@ -7,6 +7,8 @@ int main(){
     cin >> t;
 
     while(t--){
+        int n;
+        cin >>n;
         vector<long long>arr(n);
 
         for(long long i =0 ; i < n ; i++){
